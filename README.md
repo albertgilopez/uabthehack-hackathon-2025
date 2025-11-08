@@ -1,7 +1,9 @@
-# UAB WiFi Dataset Analysis - THE HACK! 2025
+# UAB WiFi Dataset Analysis - UAB THE HACK! 2025
 
-**Reto propuesto por:** DTIC (Serveis d'Informàtica UAB) - Gonçal Badenes Guia
+**Reto propuesto por:** DTIC (Serveis d'Informàtica UAB)
+
 **Evento:** UAB THE HACK! - 8 y 9 de noviembre de 2025
+
 **Categoría:** Análisis de Datos + IA/ML
 
 ---
@@ -285,3 +287,4 @@ Los datos son propiedad de la UAB y solo para uso educativo durante el evento.
 ---
 
 **¡Buena suerte y a hackear! 🚀**
+
